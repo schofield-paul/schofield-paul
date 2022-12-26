@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paul
+- 👋 Hello, I’m Paul
 - 🌱 Currently learning Javascript & React  
 - 🧑‍💻 Working through Meta Front-End & Back-End Dev courses on Coursera
 - Θ  In Full Stack Academy program through April 2023
