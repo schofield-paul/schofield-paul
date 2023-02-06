@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Paul
+- 👋 Hello 
 - 🌱 Learning Python & Flask on the BE and JS & React on the FE   
 -  Θ In Full Stack Academy program through April 2023
 
