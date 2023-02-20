@@ -1,4 +1,4 @@
-* Wrapping up @Fullstack academy in April_2023 _O_
+* Wrapping @Fullstack academy until April_2023 𝚹
 * Focused on backend development 🐍
 * Previously operations at Privacy.com 💳
 
