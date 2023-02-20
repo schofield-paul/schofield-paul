@@ -1,6 +1,6 @@
-- 👋 Hello 
-- 🌱 Learning Python & Flask on the BE and JS & React on the FE   
--  Θ In Full Stack Academy program through April 2023
+* Wrapping up @Fullstack academy in April_2023 _O_
+* Focused on backend development 🐍
+* Previously operations at Privacy.com 💳
 
 <!---
 makeitsough/makeitsough is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
