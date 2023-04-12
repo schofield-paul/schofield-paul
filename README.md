@@ -1,6 +1,6 @@
-* Wrapping @Fullstack academy until April 2023 𝚹
-* Focused on backend development 🐍
 * Previously operations at Privacy.com 💳
+* Focused on backend development 🐍
+* Completed Fullstack Academy 2023
 
 
 Always learning from Engineering resources -- recent impactful works include:
