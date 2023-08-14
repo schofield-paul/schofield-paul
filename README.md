@@ -1,5 +1,5 @@
 * Previously operations at Privacy.com 💳
-* Focused on backend development 🐍
+* Interested in backend and infra 
 * Completed Fullstack Academy 2023
 
 
