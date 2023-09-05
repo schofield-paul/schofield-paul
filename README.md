@@ -1,5 +1,5 @@
-* Previously operations at Privacy.com 💳
-* Interested in infra and backend 
+* Previously operations at Lithic (Privacy.com) 💳
+* Currently learning TypeScript
 * Completed Fullstack Academy 2023
 
 
