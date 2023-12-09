@@ -12,7 +12,7 @@ Exploring: [The Software Engineer's Guidebook](https://www.engguidebook.com/)
 
 ![schofield-paul's Streak](https://github-readme-streak-stats.herokuapp.com/?user=schofield-paul&theme=default&hide_border=false)
 
-Noteworthy resources for software design, engineering, and leadership:
+Noteworthy resources on software design, engineering, and leadership:
 - **[Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)** by Nicole Forsgren, Jez Humble, and Gene Kim
 - **[Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)** by Donella H. Meadows
 - **[The Staff Engineer's Path](https://noidea.dog/staff)** by Tanya Reilly
