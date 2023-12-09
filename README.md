@@ -4,7 +4,7 @@
 
 Developing [Hanzi](https://www.hanzi-app.com/)—a tool for learning to read and write Mandarin.
 
-Enrolled in NYU's [Tandon Bridge](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge/preparatory-resources#chapter-id-51872) program.
+Enrolled in NYU's [Tandon Bridge](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge/preparatory-resources#chapter-id-51872).
 
 Exploring: [The Software Engineer's Guidebook](https://www.engguidebook.com/)
 
