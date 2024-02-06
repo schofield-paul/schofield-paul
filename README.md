@@ -2,11 +2,11 @@
 
 <hr style="height:0.5px; border:none; color:#333; background-color:#333;">
 
-Developing [Hanzi](https://www.hanzi-app.com/)—a tool for learning to read and write Mandarin.
+💳 Working at [Ramp](https://www.ramp.com/)—helping finance teams build healthier businesses.
 
-Enrolled in NYU's [Tandon Bridge](https://engineering.nyu.edu/academics/programs/nyu-tandon-bridge/preparatory-resources#chapter-id-51872).
+💻 Developing [Hanzi](https://www.hanzi-app.com/)—a tool for learning to read and write Mandarin.
 
-Exploring: [The Software Engineer's Guidebook](https://www.engguidebook.com/)
+🐍 Exploring [Effective Python](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134853989)
 
 <hr style="height:0.5px; border:none; color:#333; background-color:#333;">
 
